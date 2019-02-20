@@ -42,7 +42,7 @@
         <entry file="file://$PROJECT_DIR$/web/new1.jsp">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="190">
-              <caret line="10" column="37" lean-forward="true" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="37" />
+              <caret line="10" column="37" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="37" />
             </state>
           </provider>
         </entry>
@@ -153,7 +153,7 @@
       <list />
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="1030" />
     <option name="y" value="10" />
     <option name="width" value="899" />
@@ -396,12 +396,12 @@
       <workItem from="1550461307200" duration="18056000" />
       <workItem from="1550638295765" duration="10000" />
       <workItem from="1550638551164" duration="351000" />
-      <workItem from="1550639683113" duration="582000" />
+      <workItem from="1550639683113" duration="805000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="28471000" />
+    <option name="totallyTimeSpent" value="28694000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -572,7 +572,7 @@
     <entry file="file://$PROJECT_DIR$/web/new1.jsp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="190">
-          <caret line="10" column="37" lean-forward="true" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="37" />
+          <caret line="10" column="37" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="37" />
         </state>
       </provider>
     </entry>
